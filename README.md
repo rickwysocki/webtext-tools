@@ -1,6 +1,6 @@
 # Webtext Tools
 
-A repository of tools for creating scholarly webtexts. Created by Ashley Beardsley and Rick Wysocki, _Disputatio_ Section Editors at _Kairos: A Journal of Rhetoric, Technology, and Pedagogy.
+A repository of tools for creating scholarly webtexts. Created by Ashley Beardsley and Rick Wysocki, _Disputatio_ Section Editors at _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_.
 
 ## HTML Templating
 
